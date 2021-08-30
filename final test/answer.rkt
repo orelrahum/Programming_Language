@@ -1,5 +1,4 @@
 #lang pl
-;;316423615 -Orel Rahum
 ;;2020 home test bc COVID-19 
 
 #| Please complete the missing rules below  
