@@ -3,12 +3,6 @@
 #lang pl
 
 
-#|
-Orel Rahum - 316423615
-Netnanel Ben-Isahar - 204478150
-|#
-
-
 
 #|
   The grammar:
